@@ -38,7 +38,12 @@ A repository highlighting and linking existing resources and datasets for genera
 
 
 ## Protein Structure Datasets
-- 
+- Ian Sillitoe et al. **"CATH: expanding the horizons of structure-based functional annotations for genome sequences"**  
+  Nucleic Acids Research, Volume 47, Issue D1, 08 January 2019, Pages D280–D284, https://doi.org/10.1093/nar/gky1097  
+  **Description:** Hierarchical Classification of Protein Structures based on function and evolutionary relationships.  
+  [[Paper]](https://academic.oup.com/nar/article/47/D1/D280/5162467), [[Dataset]](http://www.cathdb.info/)
+
+  
 
 ## Protein-Protein Interaction Datasets
 -
