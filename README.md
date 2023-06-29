@@ -4,7 +4,7 @@ A repository highlighting and linking existing resources and datasets for genera
 
 ## Protein Sequence Datasets  
 
-- Suzek, Baris E et al. **“UniRef clusters: a comprehensive and scalable alternative for improving sequence similarity searches.”**
+- Suzek, Baris E et al. **“UniRef clusters: a comprehensive and scalable alternative for improving sequence similarity searches.”**  
   Bioinformatics (Oxford, England) vol. 31,6 (2015): 926-32. doi:10.1093/bioinformatics/btu739  
   **Description:** A collection of protein sequence clusters from the UniProt Knowledgebase  
   [[Paper]](https://academic.oup.com/bioinformatics/article/31/6/926/214968), [[Dataset]](http://www.uniprot.org/uniref)
