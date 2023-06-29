@@ -75,6 +75,11 @@ A repository highlighting and linking existing resources and datasets for genera
   **Description:** Dataset for Secondary Structure Prediction  
   [[Paper]](https://pubmed.ncbi.nlm.nih.gov/10081963/), [[CB513 Dataset]](https://github.com/taneishi/CB513_dataset)
 
+- Kryshtafovych, A, Schwede, T, Topf, M, Fidelis, K, Moult, J. **"Critical assessment of methods of protein structure prediction (CASP)—Round XIII."**    
+  Proteins. 2019; 87: 1011– 1020. https://doi.org/10.1002/prot.25823  
+  **Description:** A collection of predicted structures for sequences  
+  [[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/prot.25823), [[Datatset/Server]](https://predictioncenter.org/casp13/)
+
 - 
   
 
