@@ -92,8 +92,12 @@ A repository highlighting and linking existing resources and datasets for genera
   **Description:** A database of antibody structures.  
   [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925428/), [[Datatset/Server]](http://www.abybank.org/abdb/)
 
-- 
-  
+- S. Axelrod and R. Gomez-Bombarelli, **“GEOM: Energy-annotated molecular conformations for property prediction and molecular generation.”**  
+  arXiv, Feb. 09, 2022. doi: 10.48550/arXiv.2006.05531.  
+  **Description:** A dataset of 37 million molecular conformations annotated by energy and statistical weight for over 450,000 molecules.  
+  [[Ppaer]](https://arxiv.org/pdf/2006.05531.pdf), [[Datatset/Server]](https://github.com/learningmatter-mit/geom)  
+
+-  
 
 ## Protein-Protein Interaction Datasets
 -
