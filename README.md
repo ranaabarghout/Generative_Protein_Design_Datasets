@@ -18,7 +18,11 @@ A repository highlighting and linking existing resources and datasets for genera
   Nucleic Acids Research, Volume 49, Issue D1, 8 January 2021, Pages D412–D419, https://doi.org/10.1093/nar/gkaa913  
   **Description:** A collection of protein families, each represented by multiple sequence alignments and hidden Markov models.  
   [[Paper]](https://academic.oup.com/nar/article/49/D1/D412/5943818?login=true), [[Dataset (Legacy Host)]](http://pfam-legacy.xfam.org/), [[Dataset (Hosted at InterPro)]](https://www.ebi.ac.uk/interpro/)
-  
+
+- Trinquier, J., Uguzzoni, G., Pagnani, A. et al. **"Efficient generative modeling of protein sequences using simple autoregressive models."**
+  Nat Commun 12, 5800 (2021). https://doi.org/10.1038/s41467-021-25756-4  
+  **Description:** Uses data for five protein families (PF00014,PF00072, PF00076,PF00595,PF13354) from Pfam.  
+  [[Paper]](https://www.nature.com/articles/s41467-021-25756-4), [[Dataset]](https://github.com/pagnani/ArDCAData)
   
 
 
