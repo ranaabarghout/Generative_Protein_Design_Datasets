@@ -27,7 +27,7 @@ A repository highlighting and linking existing resources and datasets for genera
 
 - Trinquier, J., Uguzzoni, G., Pagnani, A. et al. **"Efficient generative modeling of protein sequences using simple autoregressive models."**
   Nat Commun 12, 5800 (2021). https://doi.org/10.1038/s41467-021-25756-4  
-  **Description:** Uses data for five protein families (PF00014,PF00072, PF00076,PF00595,PF13354) from Pfam.  
+  **Description:** Uses data for five protein families (PF00014, PF00072, PF00076, PF00595, PF13354) from Pfam.  
   [[Paper]](https://www.nature.com/articles/s41467-021-25756-4), [[Dataset/Server]](https://github.com/pagnani/ArDCAData)
 
 - Elodie Laine et al. **"GEMME: A Simple and Fast Global Epistatic Model Predicting Mutational Effects**"  
