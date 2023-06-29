@@ -32,16 +32,19 @@ A repository highlighting and linking existing resources and datasets for genera
 - Shin, JE., Riesselman, A.J., Kollasch, A.W. et al. **"Protein design and variant prediction using autoregressive generative models."**  
   Nat Commun 12, 2403 (2021). https://doi.org/10.1038/s41467-021-22732-w  
   **Description:** PTEN phosphatase deletions & IGP dehydratase insertions and deletions  
-  [[Paper]](https://www.nature.com/articles/s41467-021-22732-w), [[Dataset]](https://github.com/debbiemarkslab/SeqDesign/tree/v3/examples)
+  [[Paper]](https://www.nature.com/articles/s41467-021-22732-w), [[Dataset/Server]](https://github.com/debbiemarkslab/SeqDesign/tree/v3/examples)
 
-- 
+- Typhaine Paysan-Lafosse et al. **"InterPro in 2022"**  
+  Nucleic Acids Research, Volume 51, Issue D1, 6 January 2023, Pages D418–D427, https://doi.org/10.1093/nar/gkac993  
+  **Description**: A database of protein families, domains, and functional sites for protein sequence classification and annotation.  
+  [[Paper]](https://academic.oup.com/nar/article/51/D1/D418/6814474), [[Datatset/Server]](http://www.ebi.ac.uk/interpro/)  
 
 
 ## Protein Structure Datasets
 - Ian Sillitoe et al. **"CATH: expanding the horizons of structure-based functional annotations for genome sequences"**  
   Nucleic Acids Research, Volume 47, Issue D1, 08 January 2019, Pages D280–D284, https://doi.org/10.1093/nar/gky1097  
   **Description:** Hierarchical Classification of Protein Structures based on function and evolutionary relationships.  
-  [[Paper]](https://academic.oup.com/nar/article/47/D1/D280/5162467), [[Dataset]](http://www.cathdb.info/)
+  [[Paper]](https://academic.oup.com/nar/article/47/D1/D280/5162467), [[Dataset/Server]](http://www.cathdb.info/)
 
   
 
