@@ -29,6 +29,11 @@ A repository highlighting and linking existing resources and datasets for genera
   **Description:** Generates the mutational landscape of a protein given an input alignment    
   [[Paper]](https://academic.oup.com/mbe/article/36/11/2604/5548199), [[Datatset/Server]](http://www.lcqb.upmc.fr/GEMME/download.html)
 
+- Shin, JE., Riesselman, A.J., Kollasch, A.W. et al. **"Protein design and variant prediction using autoregressive generative models."**  
+  Nat Commun 12, 2403 (2021). https://doi.org/10.1038/s41467-021-22732-w  
+  **Description:** PTEN phosphatase deletions & IGP dehydratase insertions and deletions  
+  [[Paper]](https://www.nature.com/articles/s41467-021-22732-w), [[Dataset]](https://github.com/debbiemarkslab/SeqDesign/tree/v3/examples)
+
 - 
 
 
