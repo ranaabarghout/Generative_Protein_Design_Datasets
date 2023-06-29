@@ -59,11 +59,12 @@ A repository highlighting and linking existing resources and datasets for genera
   **Description:** 89 recombinase libraries for loxA-1 to loxX-6 target sites  
   [[Paper]](https://www.nature.com/articles/s41467-022-35614-6), [[Dataset/Server]](https://www.ebi.ac.uk/ena/browser/view/PRJEB57361)
 
-- 
-  
+- M. AlQuraishi, **“ProteinNet: a standardized data set for machine learning of protein structure,”**  
+  BMC Bioinformatics, vol. 20, no. 1, p. 311, Dec. 2019, doi: 10.1186/s12859-019-2932-0.  
+  **Description:** A standardized data set for machine learning of protein structure. It provides protein sequences, structures (secondary and tertiary), multiple sequence alignments (MSAs), position-specific scoring matrices (PSSMs), and standardized training/validation/test splits  
+  [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6560865/), [[Dataset/Server]](https://github.com/aqlaboratory/proteinnet)  
 
   
-
 ## Protein Structure Datasets
 - Ian Sillitoe et al. **"CATH: expanding the horizons of structure-based functional annotations for genome sequences"**  
   Nucleic Acids Research, Volume 47, Issue D1, 08 January 2019, Pages D280–D284, https://doi.org/10.1093/nar/gky1097  
@@ -97,7 +98,11 @@ A repository highlighting and linking existing resources and datasets for genera
   **Description:** A dataset of 37 million molecular conformations annotated by energy and statistical weight for over 450,000 molecules.  
   [[Paper]](https://arxiv.org/pdf/2006.05531.pdf), [[Datatset/Server]](https://github.com/learningmatter-mit/geom)  
 
-- 
+- M. AlQuraishi, **“ProteinNet: a standardized data set for machine learning of protein structure,”**  
+  BMC Bioinformatics, vol. 20, no. 1, p. 311, Dec. 2019, doi: 10.1186/s12859-019-2932-0.  
+  **Description:** A standardized data set for machine learning of protein structure. It provides protein sequences, structures (secondary and tertiary), multiple sequence alignments (MSAs), position-specific scoring matrices (PSSMs), and standardized training/validation/test splits  
+  [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6560865/), [[Dataset/Server]](https://github.com/aqlaboratory/proteinnet)  
+
 
 ## Protein-Protein Interaction Datasets
 -
@@ -115,4 +120,15 @@ A repository highlighting and linking existing resources and datasets for genera
   [[Paper]](https://academic.oup.com/gigascience/article/7/8/giy091/5057873?login=true), [[Datatset/Server]](https://www.bindingdb.org/rwd/bind/index.jsp)  
   PS: Read the paper to see how to extract the relevant structures/models from BDB.
 
+- A. Gaulton et al., **“ChEMBL: a large-scale bioactivity database for drug discovery,”**   
+  Nucleic Acids Res., vol. 40, no. D1, pp. D1100–D1107, Jan. 2012, doi: 10.1093/nar/gkr777.  
+  **Description:** A database of bioactive molecules with drug-like properties(chemical, bioactivity and genomic data)  
+  [[Paper]](https://academic.oup.com/nar/article/40/D1/D1100/2903401?login=true), [[Dataset/Server]](https://www.ebi.ac.uk/chembl/)  
+
+- P. G. Francoeur et al., **“3D Convolutional Neural Networks and a CrossDocked Dataset for Structure-Based Drug Design,”**    
+  J. Chem. Inf. Model., vol. 60, no. 9, pp. 4200–4215, Sep. 2020, doi: 10.1021/acs.jcim.0c00411.  
+  **Description:** Benchmark dataset for protein-ligand binding affinity prediction  
+  [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00411), [[Dataset/Server]](https://github.com/gnina/models/tree/master/data/CrossDocked2020)  
+
 - 
+  
