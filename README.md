@@ -109,4 +109,10 @@ A repository highlighting and linking existing resources and datasets for genera
   **Description:** A database of ligandable sites from the PDB(all-atom description of the protein, its ligand, their binding site and their binding mode)  
   [[Paper]](https://pubmed.ncbi.nlm.nih.gov/25300483/), [[Dataset/Server]](http://bioinfo-pharma.u-strasbg.fr/scPDB/)
 
+- M. Naderi, R. G. Govindaraj, and M. Brylinski, **“eModel-BDB: a database of comparative structure models of drug-target interactions from the Binding Database,”**  
+  GigaScience, vol. 7, no. 8, p. giy091, Aug. 2018, doi: 10.1093/gigascience/giy091.  
+  **Description:** Database of atomic-level models of drug-protein assemblies  
+  [[Paper]](https://academic.oup.com/gigascience/article/7/8/giy091/5057873?login=true), [[Datatset/Server]](https://www.bindingdb.org/rwd/bind/index.jsp)  
+  PS: Read the paper to see how to extract the relevant structures/models from BDB.
+
 - 
