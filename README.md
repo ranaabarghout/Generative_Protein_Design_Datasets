@@ -120,6 +120,7 @@ A repository highlighting and linking existing resources and datasets for genera
   **Description:** AlphaFold2-predicted structures for human protein interactions.  
   [[Paper]](https://www.nature.com/articles/s41594-022-00910-8), [[Datatset]](https://figshare.scilifelab.se/articles/dataset/Data_and_most_relevant_results_for_the_FoldDock_project/16866202/1)  
 
+
 ## Protein-Ligand Datasets
 
 - J. Desaphy, G. Bret, D. Rognan, and E. Kellenberger, **“sc-PDB: a 3D-database of ligandable binding sites—10 years on”**  
@@ -143,5 +144,4 @@ A repository highlighting and linking existing resources and datasets for genera
   **Description:** Benchmark dataset for protein-ligand binding affinity prediction  
   [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00411), [[Dataset/Server]](https://github.com/gnina/models/tree/master/data/CrossDocked2020)  
 
-- 
   
