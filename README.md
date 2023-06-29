@@ -105,7 +105,20 @@ A repository highlighting and linking existing resources and datasets for genera
 
 
 ## Protein-Protein Interaction Datasets
--
+- P. Bryant, G. Pozzati, and A. Elofsson, **“Improved prediction of protein-protein interactions using AlphaFold2,”**  
+  Nat. Commun., vol. 13, no. 1, Art. no. 1, Mar. 2022, doi: 10.1038/s41467-022-28865-w.  
+  **Description:** ALphaFold2-predicted protein-protein interactions.  
+  [[Paper]](https://www.nature.com/articles/s41467-022-28865-w), [[Input Datatset]](https://figshare.scilifelab.se/articles/dataset/Data_and_most_relevant_results_for_the_FoldDock_project/16866202/1), [[Predictions]](https://gitlab.com/ElofssonLab/FoldDock)  
+
+- A. G. Green, H. Elhabashy, K. P. Brock, R. Maddamsetti, O. Kohlbacher, and D. S. Marks, “Large-scale discovery of protein interactions at residue resolution using co-evolution calculated from genomic sequences,”  
+  Nat. Commun., vol. 12, no. 1, Art. no. 1, Mar. 2021, doi: 10.1038/s41467-021-21636-z.  
+  **Description:** De-novo protein interactions in the *E.coli* proteome.  
+  [[Paper]](https://www.nature.com/articles/s41467-021-21636-z), [[Datatset]](https://marks.hms.harvard.edu/ecolicomplex/)  
+
+- D. F. Burke et al., “Towards a structurally resolved human protein interaction network,”  
+  Nat. Struct. Mol. Biol., vol. 30, no. 2, Art. no. 2, Feb. 2023, doi: 10.1038/s41594-022-00910-8.  
+  **Description:** AlphaFold2-predicted structures for human protein interactions.  
+  [[Paper]](https://www.nature.com/articles/s41594-022-00910-8), [[Datatset]](https://figshare.scilifelab.se/articles/dataset/Data_and_most_relevant_results_for_the_FoldDock_project/16866202/1)  
 
 ## Protein-Ligand Datasets
 
