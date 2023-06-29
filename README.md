@@ -95,11 +95,18 @@ A repository highlighting and linking existing resources and datasets for genera
 - S. Axelrod and R. Gomez-Bombarelli, **“GEOM: Energy-annotated molecular conformations for property prediction and molecular generation.”**  
   arXiv, Feb. 09, 2022. doi: 10.48550/arXiv.2006.05531.  
   **Description:** A dataset of 37 million molecular conformations annotated by energy and statistical weight for over 450,000 molecules.  
-  [[Ppaer]](https://arxiv.org/pdf/2006.05531.pdf), [[Datatset/Server]](https://github.com/learningmatter-mit/geom)  
+  [[Paper]](https://arxiv.org/pdf/2006.05531.pdf), [[Datatset/Server]](https://github.com/learningmatter-mit/geom)  
 
--  
+- 
 
 ## Protein-Protein Interaction Datasets
 -
 
 ## Protein-Ligand Datasets
+
+- J. Desaphy, G. Bret, D. Rognan, and E. Kellenberger, **“sc-PDB: a 3D-database of ligandable binding sites—10 years on”**  
+  Nucleic Acids Res., vol. 43, no. D1, pp. D399–D404, Jan. 2015, doi: 10.1093/nar/gku928.  
+  **Description:** A database of ligandable sites from the PDB(all-atom description of the protein, its ligand, their binding site and their binding mode)  
+  [[Paper]](https://pubmed.ncbi.nlm.nih.gov/25300483/), [[Dataset/Server]](http://bioinfo-pharma.u-strasbg.fr/scPDB/)
+
+- 
