@@ -36,8 +36,13 @@ A repository highlighting and linking existing resources and datasets for genera
 
 - Typhaine Paysan-Lafosse et al. **"InterPro in 2022"**  
   Nucleic Acids Research, Volume 51, Issue D1, 6 January 2023, Pages D418–D427, https://doi.org/10.1093/nar/gkac993  
-  **Description**: A database of protein families, domains, and functional sites for protein sequence classification and annotation.  
-  [[Paper]](https://academic.oup.com/nar/article/51/D1/D418/6814474), [[Datatset/Server]](http://www.ebi.ac.uk/interpro/)  
+  **Description**: A database that integrates diverse information about protein families, domains and functional sites, providing a unified view of protein sequence classification and annotation.  
+  [[Paper]](https://academic.oup.com/nar/article/51/D1/D418/6814474), [[Datatset/Server]](http://www.ebi.ac.uk/interpro/)
+
+- Milot Mirdita et al. **"Uniclust databases of clustered and deeply annotated protein sequences and alignments"**  
+  Nucleic Acids Research, Volume 45, Issue D1, January 2017, Pages D170–D176, https://doi.org/10.1093/nar/gkw1081  
+  **Description:** A database of protein sequences clustered at different sequence similarity thresholds, providing a resource to reduce redundancy and improve the efficiency of various bioinformatics analyses  
+  [[Paper]](https://academic.oup.com/nar/article/45/D1/D170/2605730?login=true), [[Dataset/Server]](https://uniclust.mmseqs.com/)  
 
 
 ## Protein Structure Datasets
