@@ -45,9 +45,14 @@ A repository highlighting and linking existing resources and datasets for genera
   [[Paper]](https://academic.oup.com/nar/article/45/D1/D170/2605730?login=true), [[Dataset/Server]](https://uniclust.mmseqs.com/)
 
 - Gilson, Michael K et al. “BindingDB in 2015: A public database for medicinal chemistry, computational chemistry and systems pharmacology.”  
-  Nucleic acids research vol. 44,D1 (2016): D1045-53. doi:10.1093/nar/gkv1072  
+  Nucleic acids research vol. 44, D1 (2016): D1045-53. doi:10.1093/nar/gkv1072  
   **Description:** A database of measured binding affinities, focusing chiefly on the interactions of proteins considered to be drug-targets with small, drug-like molecules.  
   [[Paper]](https://pubmed.ncbi.nlm.nih.gov/26481362/), [[Dataset/Server]](https://www.bindingdb.org/rwd/bind/index.jsp)
+
+- Antje Chang et al. **"BRENDA, the ELIXIR core data resource in 2021: new developments and updates"**  
+  Nucleic Acids Research, Volume 49, Issue D1, 8 January 2021, Pages D498–D508, https://doi.org/10.1093/nar/gkaa1025  
+  **Description:** A database providing detailed information on enzymes such as function, structure, localization, and application, derived from scientific literature and manual curation.  
+  [[Paper]](https://academic.oup.com/nar/article/49/D1/D498/5992283), [[Dataset/Server]](https://www.brenda-enzymes.org/)
 
 - 
 
