@@ -80,6 +80,13 @@ A repository highlighting and linking existing resources and datasets for genera
   **Description:** A collection of predicted structures for sequences  
   [[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/prot.25823), [[Datatset/Server]](https://predictioncenter.org/casp13/)
 
+- [Protein Data Bank](https://www.rcsb.org/)
+
+- John-Marc Chandonia et al. **"SCOPe: classification of large macromolecular structures in the structural classification of proteins—extended database."**  
+  Nucleic Acids Research, Volume 47, Issue D1, 08 January 2019, Pages D475–D481, https://doi.org/10.1093/nar/gky1134  
+  **Description:** Database of known protein structures classified based on their structural and evolutionary relationships  
+  [[Paper]](https://academic.oup.com/nar/article/47/D1/D475/5219094), [[Dataset/Server]](http://scop.berkeley.edu/)  
+
 - 
   
 
