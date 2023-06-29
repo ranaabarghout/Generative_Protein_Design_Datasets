@@ -4,6 +4,8 @@ A repository highlighting and linking existing resources and datasets for genera
 ### Sections
 - [Protein Sequence Datasets](#protein-sequence-datasets)
 - [Protein Structure Datasets](#protein-structure-datasets)
+- [Protein-Protein Interaction Datasets](#protein-protein-interaction-datatsets)
+- [Protein-Ligand Datasets](#protein-ligand-datasets)
 
 
 ## Protein Sequence Datasets  
