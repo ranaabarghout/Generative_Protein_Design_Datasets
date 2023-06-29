@@ -70,6 +70,12 @@ A repository highlighting and linking existing resources and datasets for genera
   **Description:** Hierarchical Classification of Protein Structures based on function and evolutionary relationships.  
   [[Paper]](https://academic.oup.com/nar/article/47/D1/D280/5162467), [[Dataset/Server]](http://www.cathdb.info/)
 
+- Cuff, J A, and G J Barton. **“Evaluation and improvement of multiple sequence methods for protein secondary structure prediction.”**  
+  Proteins vol. 34,4 (1999): 508-19. doi:10.1002/(sici)1097-0134(19990301)34:4<508::aid-prot10>3.0.co;2-4  
+  **Description:** Dataset for Secondary Structure Prediction  
+  [[Paper]](https://pubmed.ncbi.nlm.nih.gov/10081963/), [[CB513 Dataset]](https://github.com/taneishi/CB513_dataset)
+
+- 
   
 
 ## Protein-Protein Interaction Datasets
