@@ -87,6 +87,11 @@ A repository highlighting and linking existing resources and datasets for genera
   **Description:** Database of known protein structures classified based on their structural and evolutionary relationships  
   [[Paper]](https://academic.oup.com/nar/article/47/D1/D475/5219094), [[Dataset/Server]](http://scop.berkeley.edu/)  
 
+- Ferdous S, Martin ACR. **"AbDb: antibody structure database-a database of PDB-derived antibody structures."**  
+  Database (Oxford). 2018;2018:bay040. doi:10.1093/database/bay040  
+  **Description:** A database of antibody structures.  
+  [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925428/), [[Datatset/Server]](http://www.abybank.org/abdb/)
+
 - 
   
 
