@@ -42,8 +42,16 @@ A repository highlighting and linking existing resources and datasets for genera
 - Milot Mirdita et al. **"Uniclust databases of clustered and deeply annotated protein sequences and alignments"**  
   Nucleic Acids Research, Volume 45, Issue D1, January 2017, Pages D170–D176, https://doi.org/10.1093/nar/gkw1081  
   **Description:** A database of protein sequences clustered at different sequence similarity thresholds, providing a resource to reduce redundancy and improve the efficiency of various bioinformatics analyses  
-  [[Paper]](https://academic.oup.com/nar/article/45/D1/D170/2605730?login=true), [[Dataset/Server]](https://uniclust.mmseqs.com/)  
+  [[Paper]](https://academic.oup.com/nar/article/45/D1/D170/2605730?login=true), [[Dataset/Server]](https://uniclust.mmseqs.com/)
 
+- Gilson, Michael K et al. “BindingDB in 2015: A public database for medicinal chemistry, computational chemistry and systems pharmacology.”  
+  Nucleic acids research vol. 44,D1 (2016): D1045-53. doi:10.1093/nar/gkv1072  
+  **Description:** A database of measured binding affinities, focusing chiefly on the interactions of proteins considered to be drug-targets with small, drug-like molecules.  
+  [[Paper]](https://pubmed.ncbi.nlm.nih.gov/26481362/), [[Dataset/Server]](https://www.bindingdb.org/rwd/bind/index.jsp)
+
+- 
+
+  
 
 ## Protein Structure Datasets
 - Ian Sillitoe et al. **"CATH: expanding the horizons of structure-based functional annotations for genome sequences"**  
