@@ -54,7 +54,13 @@ A repository highlighting and linking existing resources and datasets for genera
   **Description:** A database providing detailed information on enzymes such as function, structure, localization, and application, derived from scientific literature and manual curation.  
   [[Paper]](https://academic.oup.com/nar/article/49/D1/D498/5992283), [[Dataset/Server]](https://www.brenda-enzymes.org/)
 
+- Schmitt, L.T., Paszkowski-Rogacz, M., Jug, F. et al. **"Prediction of designer-recombinases for DNA editing with generative deep learning."**  
+  Nat Commun 13, 7966 (2022). https://doi.org/10.1038/s41467-022-35614-6  
+  **Description:** 89 recombinase libraries for loxA-1 to loxX-6 target sites  
+  [[Paper]](https://www.nature.com/articles/s41467-022-35614-6), [[Dataset/Server]](https://www.ebi.ac.uk/ena/browser/view/PRJEB57361)
+
 - 
+  
 
   
 
