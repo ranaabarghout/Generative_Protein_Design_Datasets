@@ -1,5 +1,5 @@
 # Generative_Protein_Design_Datasets
-A repository highlighting and linking existing resources and datasets for generative protein modeling. 
+A repository highlighting and linking existing resources and datasets for generative protein modeling.  
 
 ### Sections
 - [Protein Sequence Datasets](#protein-sequence-datasets)
