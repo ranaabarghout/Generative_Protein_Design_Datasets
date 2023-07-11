@@ -68,7 +68,12 @@ A repository highlighting and linking existing resources and datasets for genera
 - M. AlQuraishi, **“ProteinNet: a standardized data set for machine learning of protein structure,”**  
   BMC Bioinformatics, vol. 20, no. 1, p. 311, Dec. 2019, doi: 10.1186/s12859-019-2932-0.  
   **Description:** A standardized data set for machine learning of protein structure. It provides protein sequences, structures (secondary and tertiary), multiple sequence alignments (MSAs), position-specific scoring matrices (PSSMs), and standardized training/validation/test splits  
-  [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6560865/), [[Dataset/Server]](https://github.com/aqlaboratory/proteinnet)  
+  [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6560865/), [[Dataset/Server]](https://github.com/aqlaboratory/proteinnet)
+
+- Dallago, Christian, et al. **“FLIP: Benchmark Tasks in Fitness Landscape Inference for Proteins."**  
+  bioRxiv (Cold Spring Harbor Laboratory), Cold Spring Harbor Laboratory, Nov. 2021, https://doi.org/10.1101/2021.11.09.467890.  
+  **Description:** An open-source benchmark for function prediction, designed to enhance machine learning applications in protein engineering via representation learning scoring.  
+  [[Paper]](https://www.biorxiv.org/content/10.1101/2021.11.09.467890v2), [[Dataset]](https://benchmark.protein.properties/)  
 
   
 ## Protein Structure Datasets
@@ -107,7 +112,27 @@ A repository highlighting and linking existing resources and datasets for genera
 - M. AlQuraishi, **“ProteinNet: a standardized data set for machine learning of protein structure,”**  
   BMC Bioinformatics, vol. 20, no. 1, p. 311, Dec. 2019, doi: 10.1186/s12859-019-2932-0.  
   **Description:** A standardized data set for machine learning of protein structure. It provides protein sequences, structures (secondary and tertiary), multiple sequence alignments (MSAs), position-specific scoring matrices (PSSMs), and standardized training/validation/test splits  
-  [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6560865/), [[Dataset/Server]](https://github.com/aqlaboratory/proteinnet)  
+  [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6560865/), [[Dataset/Server]](https://github.com/aqlaboratory/proteinnet)
+
+- Leonardo V Castorina et al. **"PDBench: evaluating computational methods for protein-sequence design."**  
+  Bioinformatics, Volume 39, Issue 1, January 2023, btad027, https://doi.org/10.1093/bioinformatics/btad027  
+  **Description:** Diverse dataset of proteins and tests, intended to evaluate and optimize protein-sequence design  
+  [[Paper]](https://academic.oup.com/bioinformatics/article/39/1/btad027/6986968), [[Dataset/Server]](https://github.com/wells-wood-research/PDBench)  
+
+- Amelia Villegas-Morcillo et al. **"ManyFold: an efficient and flexible library for training and validating protein folding models."**  
+  Bioinformatics, Volume 39, Issue 1, January 2023, btac773, https://doi.org/10.1093/bioinformatics/btac773  
+  **Description:** A flexible, Jax-based library for protein structure prediction using deep learning, capable of fine-tuning and training models from scratch.  
+  [[Paper]](https://academic.oup.com/bioinformatics/article/39/1/btac773/6887136), [[Dataset]](https://github.com/instadeepai/manyfold)
+
+- Thomas, Neil, et al. **“Tuned Fitness Landscapes for Benchmarking Model-Guided Protein Design.”**  
+  bioRxiv, 1 Jan. 2022, www.biorxiv.org/content/10.1101/2022.10.28.514293v1.full.  
+  **Description:** An open-source framework for creating synthetic, biologically-inspired protein landscapes to test and benchmark machine learning-directed evolution (MLDE) strategies.  
+  [[Paper]](https://www.biorxiv.org/content/10.1101/2022.10.28.514293v1.full), [[Dataset]](https://github.com/google-research/slip)  
+
+- Dallago, Christian, et al. **“FLIP: Benchmark Tasks in Fitness Landscape Inference for Proteins."**  
+  bioRxiv (Cold Spring Harbor Laboratory), Cold Spring Harbor Laboratory, Nov. 2021, https://doi.org/10.1101/2021.11.09.467890.  
+  **Description:** An open-source benchmark for function prediction, designed to enhance machine learning applications in protein engineering via representation learning scoring.  
+  [[Paper]](https://www.biorxiv.org/content/10.1101/2021.11.09.467890v2), [[Dataset]](https://benchmark.protein.properties/)  
 
 
 ## Protein-Protein Interaction Datasets
